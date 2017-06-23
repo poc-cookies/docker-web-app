@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/poc-cookies/docker-web-app/issues"
   },
-  "homepage": "https://github.com/poc-cookies/docker-web-app#readme"
+  "homepage": "https://github.com/poc-cookies/docker-web-app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }

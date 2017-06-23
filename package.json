@@ -1,0 +1,19 @@
+{
+  "name": "docker-web-app",
+  "version": "1.0.0",
+  "description": "NodeJS web app running as Docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poc-cookies/docker-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poc-cookies/docker-web-app/issues"
+  },
+  "homepage": "https://github.com/poc-cookies/docker-web-app#readme"
+}
